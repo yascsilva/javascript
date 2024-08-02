@@ -1,6 +1,6 @@
 # Atividade de Pesquisa: Introdução ao JavaScript
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/9645ffec-56d0-4ba2-8042-a11dca671499)
 
 ## O que é JavaScript?
 *JavaScript (JS)* é uma linguagem de programação de alto nível, interpretada e orientada a objetos, amplamente utilizada para criar páginas web interativas. Em termos simples, o JavaScript permite que páginas web "ganhem vida", respondendo às ações do usuário e tornando a experiência online mais dinâmica e envolvente.
@@ -33,7 +33,7 @@ Em JavaScript, você usa as palavras-chave **let**, **const** ou **var** para de
 - **const:** Declara uma constante, ou seja, o valor da variável não pode ser alterado após sua inicialização.
 - **var:** Era a forma tradicional de declarar variáveis, mas seu uso é menos recomendado devido a algumas peculiaridades de escopo.
 
-![alt text](image-4.png)
+![Captura de tela 2024-08-02 100745](https://github.com/user-attachments/assets/d44fac6c-23cb-4502-93b0-00f309cdf584)
 
 ### Tipos de Dados em JavaScript
 JavaScript é uma linguagem de tipagem dinâmica, o que significa que você não precisa declarar explicitamente o tipo de uma variável. O tipo é inferido automaticamente pelo interpretador.
@@ -47,8 +47,8 @@ JavaScript é uma linguagem de tipagem dinâmica, o que significa que você não
 - **undefined:** Representa uma variável que foi declarada, mas ainda não recebeu um valor.
 - **Object:** Representa uma coleção de pares chave-valor, onde as chaves são strings e os valores podem ser de qualquer tipo.
 - **Array:** Uma lista ordenada de valores, onde cada valor pode ser de qualquer tipo.
-
-![alt text](image-5.png)
+- 
+![Captura de tela 2024-08-02 095959](https://github.com/user-attachments/assets/736ba7e0-5d68-453b-bc87-f59ac6b07ac5)
 
 ### Funções em JavaScript
 
@@ -60,16 +60,15 @@ Existem duas formas principais de criar funções em JavaScript:
 
 **Declaração de função:**
 
-![alt text](image-2.png)
+![Captura de tela 2024-08-02 100448](https://github.com/user-attachments/assets/ce0c65f1-0747-48cd-9f43-5fcf60a8da8f)
 
 **Expressão de função:**
 
-![alt text](image-3.png)
+![Captura de tela 2024-08-02 100527](https://github.com/user-attachments/assets/88d31c7d-0332-468f-9147-69bd721e3030)
 
 **Exemplo de uso:**
 
-![alt text](image-6.png)
-
+![Captura de tela 2024-08-02 101238](https://github.com/user-attachments/assets/82531e77-beed-46b3-8fda-d633a3703551)
 
 ### Características importantes das funções:
 
@@ -117,7 +116,8 @@ O *DOM* é uma representação em forma de árvore de um documento HTML. Cada el
 
 **Exemplo Prático:**
 
-![](image-7.png)
+![Captura de tela 2024-08-02 102850](https://github.com/user-attachments/assets/07719f91-9339-48aa-9270-1f638c8e5277)
+
 
 ## As principais ferramentas e ambientes utilizados para desenvolvimento em JavaScript são:
 
